@@ -77,19 +77,19 @@ Refreshing the page clears the current list.
 ## Screenshots
 
 ### Mobile
-![Mobile 1](assets/screenshots/Mobile1.png)
+![Mobile 1](src/assets/screenshots/Mobile1.png)
 
-![Mobile 2](assets/screenshots/Mobile2.png)
+![Mobile 2](src/assets/screenshots/Mobile2.png)
 
 ### Tablet
-![Tablet 1](assets/screenshots/Tablet1.png)
+![Tablet 1](src/assets/screenshots/Tablet1.png)
 
-![Tablet 2](assets/screenshots/Tablet2.png)
+![Tablet 2](src/assets/screenshots/Tablet2.png)
 
 ### Desktop
-![Desktop 1](assets/screenshots/Desktop1.png)
+![Desktop 1](src/assets/screenshots/Desktop1.png)
 
-![Desktop 2](assets/screenshots/Desktop2.png)
+![Desktop 2](src/assets/screenshots/Desktop2.png)
 
 
 ## Project Structure
