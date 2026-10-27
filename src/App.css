@@ -1,0 +1,59 @@
+
+.container {
+  max-width: 600px;
+  margin: 30px auto;
+  padding: 20px;
+  background: white;
+  border-radius: 8px;
+}
+
+h1 {
+  text-align: center;
+}
+
+input {
+  display: block;
+  width: 100%;
+  box-sizing: border-box;
+  padding: 10px;
+  margin: 10px 0;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+button {
+  padding: 9px 14px;
+  margin: 5px 0;
+  background: #2563eb;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+button:hover {
+  background: #1d4ed8;
+}
+
+.contact {
+  padding: 12px;
+  margin: 12px 0;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  overflow-wrap: anywhere;
+}
+
+.contact h3 {
+  margin-top: 0;
+}
+
+.error {
+  color: #c62828;
+}
+
+@media (max-width: 640px) {
+  .container {
+    margin: 10px;
+    padding: 15px;
+  }
+}
