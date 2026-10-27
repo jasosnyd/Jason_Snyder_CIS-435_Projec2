@@ -87,9 +87,9 @@ Refreshing the page clears the current list.
 ![Tablet 2](src/assets/screenshots/Tablet2.png)
 
 ### Desktop
-![Desktop 1](src/assets/screenshots/Desktop1.png)
+![Desktop 1](src/assets/screenshots/Laptop1.png)
 
-![Desktop 2](src/assets/screenshots/Desktop2.png)
+![Desktop 2](src/assets/screenshots/Laptop2.png)
 
 
 ## Project Structure
